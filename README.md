@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IhzayaB from Ulaanbaatar, Mongolia
-- 👀 I’m interested in databases and Rest API.
+- 👀 I’m interested in databases (especially NoSQL) and Rest API.
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on anythong related to Databases and Rest APIs.
 
